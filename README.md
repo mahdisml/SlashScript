@@ -5,7 +5,7 @@ FAST = Fast for programmers (Typing Friendly)
 
 fast = Excution is fast as Rust !
 
-Rust Language is so ugly but it so fast ! SlashScript will use Rust Speed power buy compiling it to RustLanguage.
+Rust Language is so ugly but it so fast ! SlashScript will use Rust Speed power by compiling himself to RustLanguage.
 it can use Rust and c Libraries :)
 
 Coming soon ...
