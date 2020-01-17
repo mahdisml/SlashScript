@@ -1,0 +1,3 @@
+//in SlashScript = in Rust Language / Info 
+
+f = fn / function
