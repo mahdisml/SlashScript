@@ -4,6 +4,7 @@ v = let mut //  variable
 vs = let // constant
 f = fn // function
 s = struct
+r = return
 / / = ( )
 /  = { }
 print! = out
