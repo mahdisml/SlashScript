@@ -9,7 +9,6 @@ cls Person /
 	init /name,height,weight/
 
 
-f main // /
-
+f main /
 	v mahdi / Person = Person /mahdi,1.80,64/
 	out /mahdi.height + mahdi.weight/
