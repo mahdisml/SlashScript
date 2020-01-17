@@ -1,3 +1,10 @@
-//in SlashScript = in Rust Language / Info 
+//in SlashScript = in Rust Language // Info 
 
-f = fn / function
+v = let mut //  variable
+vs = let // constant
+f = fn // function
+s = struct
+/ / = ( )
+/  = { }
+print! = out
+println! = outln
